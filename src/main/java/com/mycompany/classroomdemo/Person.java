@@ -10,4 +10,8 @@ package com.mycompany.classroomdemo;
  */
 public class Person {
     
+    public static void main(String[] args) {
+        
+    }
+    
 }
